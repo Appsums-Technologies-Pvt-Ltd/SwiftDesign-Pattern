@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Digit Bust/Controller/GameViewController.swift"
+            timestampString = "540926824.964137"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "gotoResultVC()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Digit_Bust.GameViewController.gotoResultVC() -&gt; ()"
+                  moduleName = "Digit Bust"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankarya/Downloads/Digit%20Bust/Digit%20Bust/Controller/GameViewController.swift"
+                  timestampString = "540926825.291086"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Digit_Bust.GameViewController.gotoResultVC() -&gt; ()"
+                  moduleName = "Digit Bust"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankarya/Downloads/Digit%20Bust/Digit%20Bust/Controller/GameViewController.swift"
+                  timestampString = "540926825.29374"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "1030">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
